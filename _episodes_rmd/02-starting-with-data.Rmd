@@ -124,7 +124,6 @@ interviews
 > -	What uses did the participants agree to for their data?
 > -	Even though the data is itself released under a CC-BY license, is the use of SAFI data for Carpentry permissible under the original agreement?
 > -	Is the use and reuse of this data in any setting beyond the scope or conception of the participants? Is it ethical to use this data if so?
-
 {: .datamoment}
 
 
